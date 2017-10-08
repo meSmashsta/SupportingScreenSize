@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SupportingScreenSize</string>
+
+    <string name="extra_headline">headline</string>
+
+    <string-array name="news_title">
+        <item>Headline 1</item>
+        <item>Headline 2</item>
+        <item>Headline 3</item>
+        <item>Headline 4</item>
+        <item>Headline 5</item>
+        <item>Headline 6</item>
+        <item>Headline 7</item>
+    </string-array>
+    <string-array name="news_content">
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+        <item>Lorem ipsum</item>
+    </string-array>
+</resources>
